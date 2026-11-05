@@ -1,0 +1,13 @@
+# git ignore files
+
+studies/.ipynb_checkpoints/
+.DS_Store
+cltheory/src/__pycache__
+.idea/
+
+*.dat
+*.sh
+*.pdf
+*.log
+writings/figs/
+results/
